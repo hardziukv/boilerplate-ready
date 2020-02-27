@@ -1,0 +1,65 @@
+@import url(reset.css);
+.header	{
+	height: 200px;
+	background-color: #E5E000;
+}
+.header div {
+	font-family: "Helvetica";
+	font-style: normal;
+	font-size: 50px;
+	line-height: 200px;
+	color: #FFFFFF;
+}
+.photo {
+	height: 1080px;
+	background-image: url(../img/img.png);
+	background-size: cover;
+}
+.links {
+	height: 100px;
+	background-color: #E5E000;
+}
+.links a {
+	font-family: "Helvetica";
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 20px;
+	line-height: 100px;
+	color: #FFFFFF;
+}
+.maintext {
+	height: 700px;
+	background-color: white;
+}
+.maintext h1 {
+	font-family: "Helvetica";
+	font-style: normal;
+	font-size: 50px;
+	font-weight: bold;
+	line-height: 200px;
+}
+.maintext p {
+	font-family: "Helvetica";
+	font-style: normal;
+	font-size: 50px;
+	font-weight: 300;
+	line-height: 58px;
+}
+.footer {
+	height: 200px;
+	background-color: #E5E000;
+}
+.footercontent img {
+	height: 50px;
+}
+.footertext {
+	font-family: "Helvetica";
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 50px;
+	line-height: 50px;
+	text-align: right;
+	color: #FFFFFF;
+}
