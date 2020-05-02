@@ -1,0 +1,90 @@
+@import url(reset.css);
+
+.header {
+	height: 60px;
+	background-color: #FE1A19;
+	position: relative;
+}
+
+.header-text {
+	color: white;
+	font-size: 20px;
+	font-family: Helvetica;
+	font-weight: bold;
+	position: absolute;
+	margin: 20px 20px;
+}
+
+.first {
+	width: 400px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	background-color: white;
+	border-radius: 30px;
+	margin-right: 20px;
+	padding: 20px;
+	display: inline-block;
+	font-family: Helvetica;
+	font-size: 20px;
+	list-style-type: none;
+}
+
+.second {
+	width: 400px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	background-color: white;
+	border-radius: 30px;
+	margin-right: 20px;
+	padding: 20px;
+	display: inline-block;
+	font-family: Helvetica;
+	font-size: 20px;
+	list-style-type: none;
+	vertical-align: top;
+}
+
+.third {
+	width: 400px;
+	border: 5px solid #E5E000;
+	box-sizing: border-box;
+	background-color: white;
+	border-radius: 30px;
+	padding: 20px;
+	display: inline-block;
+	font-family: Helvetica;
+	font-size: 20px;
+	list-style-type: none;
+	vertical-align: top;
+}
+
+.columns {
+	width: 1600px;
+	margin: 40px auto;
+}
+
+.head {
+	font-weight: bold;
+}
+
+h2 {
+	font-family: Times New Roman;
+}
+
+li {
+	font-family: Times New Roman;
+}
+
+.footer-container {
+	height: 60px;
+	background-color: red;
+	position: relative;
+}
+
+.footer-text {
+	font-family: Helvetica;
+	font-weight: bold;
+	color: white;
+	margin: 20px 20px;
+	position: absolute;
+}
